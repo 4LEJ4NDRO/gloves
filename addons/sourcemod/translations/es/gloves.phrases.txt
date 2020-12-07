@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"GloveMenuTitle"
+	{
+		"es"	"★ Selección de guantes ★"
+	}
+	"CT"
+	{
+		"es"	"Antiterroristas"
+	}
+	"T"
+	{
+		"es"	"Terroristas"
+	}
+	"Increase"
+	{
+		"es"	"Reparar %d%%"
+	}
+	"Decrease"
+	{
+		"es"	"Desgastar %d%%"
+	}
+	"ChooseLanguage"
+	{
+		"es"	"Seleccionar lenguaje de nombres:"
+	}
+	"DefaultGloves"
+	{
+		"es"	"Inicial"
+	}
+	"RandomGloves"
+	{
+		"es"	"Aleatorio"
+	}
+	"SetFloat"
+	{
+		"es"	"Estado de guantes: "
+	}
+}

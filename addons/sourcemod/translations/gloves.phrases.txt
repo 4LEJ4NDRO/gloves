@@ -2,7 +2,7 @@
 {
 	"GloveMenuTitle"
 	{
-		"en"	"Gloves Menu"
+		"en"	"★ Gloves Selection ★"
 	}
 	"CT"
 	{
